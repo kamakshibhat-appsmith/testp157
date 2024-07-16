@@ -6,14 +6,12 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "input1": "1"
-    },
+    "inputs": {},
     "moduleInputs": {
       "bylojafiic": {}
     },
     "name": "QueryModule11",
     "pageId": "Page1",
-    "version": "0.0.2"
+    "version": "0.0.4"
   }
 }
