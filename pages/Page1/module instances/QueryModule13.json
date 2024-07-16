@@ -7,13 +7,13 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "input1": "1"
+      "input1": "111"
     },
     "moduleInputs": {
       "gapbvqijpr": {}
     },
     "name": "QueryModule13",
     "pageId": "Page1",
-    "version": "0.0.7"
+    "version": "0.0.8"
   }
 }
